@@ -7,7 +7,7 @@
 主要用到以下几个命令：
 
 	vim README.md
-	git add README.md 
+	git add -f README.md 
 	git commit -m "读我"
 	git push origin master
 
